@@ -16,14 +16,20 @@
 [██████████░░░░░░░░░░░░] THREAT HUNTING  
 
 ## Offensive Development
+```
 - C/C++
 - Rust
+```
 
 ### Scripting & Automation
+```
 - Bash
 - Python
 - PowerShell
+```
 
 ### Low-Level / RE
+```
 - Assembly
 - C
+```
