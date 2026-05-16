@@ -9,12 +9,6 @@
 - Red Team development tooling and automation scripts
 - Constantly studying tradecraft, OPSEC, and detection bypasses
 
-## **Skill Matrix Status**
-[████████████████░░░░░░] RED TEAMING  
-[████████░░░░░░░░░░░░░░] MALWARE ANALYSIS  
-[████████████░░░░░░░░░░] REVERSE ENGINEERING  
-[██████████░░░░░░░░░░░░] THREAT HUNTING  
-
 ## Offensive Development
 ```
 - C/C++
