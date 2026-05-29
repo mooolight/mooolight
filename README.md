@@ -4,6 +4,7 @@
 ## **About Me**
 - Offensive Security & Red Team Operations
 - Network / Active Directory Pentesting
+- Windows User and Kernel Mode Internals
 - Post-Exploitation
 - Malware Analysis
 - Red Team development tooling and automation scripts
