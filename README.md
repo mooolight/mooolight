@@ -1,5 +1,13 @@
 # About Me:
-**Role** <br>- Red Team Operator and Developer<br><br>**About Me**<br>- Offensive Security & Red Team Operations<br>- Network / Active Directory Pentesting<br>- Windows User and Kernel Mode Internals<br>- Malware Analysis<br>- Red Team development tooling and automation scripts<br>- Constantly studying tradecraft, OPSEC, and detection bypasses<br><br>**Offensive Development**<br>- C/C++<br>- Rust<br><br>**Scripting & Automation**<br>- Bash<br>- Python<br>- PowerShell<br><br>**Low-Level / RE**<br>- Assembly<br>- C
+**Role** <br>
+- Red Team Operator and Developer<br><br>
+
+**About Me**<br>
+- Offensive Security & Red Team Operations<br>
+- Network / Active Directory Pentesting<br>
+- Windows User and Kernel Mode Internals<br>
+- DFIR,Threat Hunting and Malware Analysis<br>
+- Red Team development tooling and automation scripts<br>- Constantly studying tradecraft, OPSEC, and detection bypasses<br><br>**Offensive Development**<br>- C/C++<br>- Rust<br><br>**Scripting & Automation**<br>- Bash<br>- Python<br>- PowerShell<br><br>**Low-Level / RE**<br>- Assembly<br>- C
 
 
 # 💻 Tech Stack:
