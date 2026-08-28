@@ -10,8 +10,6 @@
 - Red Team development tooling and automation scripts<br>
 - Constantly studying tradecraft, OPSEC, and detection bypasses<br><br>
 
-<img width="711" height="401" alt="whoami" src="https://github.com/user-attachments/assets/093ad1c3-ced7-42c6-9491-71fd03ffc9a9" />
-
 **Offensive Development**<br>
 - C/C++<br>
 - Rust<br><br>
